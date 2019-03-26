@@ -1,0 +1,7 @@
+{
+  "enabled": true,
+  "script": "./test-rule.js",
+  "name": "test-rule",
+  "order": 0,
+  "stage": "login_success"
+}

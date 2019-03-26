@@ -11,7 +11,10 @@
   "name": "google-oauth2",
   "is_domain_connection": false,
   "enabled_clients": [
+    "test-api (Test Application)",
     "Default App",
-    "auth0-deploy-cli-extension"
+    "auth0-github-deploy",
+    "auth0-deploy-cli-extension",
+    "test-api-01 (Test Application)"
   ]
 }

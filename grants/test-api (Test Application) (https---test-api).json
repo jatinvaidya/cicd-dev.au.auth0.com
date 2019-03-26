@@ -1,0 +1,5 @@
+{
+  "client_id": "test-api (Test Application)",
+  "audience": "https://test-api",
+  "scope": []
+}
