@@ -11,5 +11,12 @@ pipeline {
         sh 'cat pages/password_reset.json'
       }
     }
+    stage('check node') {
+      steps {
+        sh '''node -v
+npm -v
+'''
+      }
+    }
   }
 }
